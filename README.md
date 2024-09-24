@@ -5,10 +5,12 @@
 - [DL Basic] [Deep Sparse Rectifier Neural Networks](https://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 ---
 ## 💚발표 자료💚
-- a
-- b
+- [📚Week1_1](https://github.com/user-attachments/files/17107430/Week1_1_.pdf)
+- [📚Week1_2](https://github.com/user-attachments/files/17107435/Week1_2_.pdf)
+
 ---
 ## 💚우수 과제💚
 - a
+- b
 
 
