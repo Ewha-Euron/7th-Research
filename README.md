@@ -6,12 +6,12 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week1_1](https://github.com/user-attachments/files/17122072/Week1_1_.pdf)
-- [📚Week1_2](https://github.com/user-attachments/files/17107734/Week1_2_.pdf)
+- [📚Week1_1_차수빈](https://github.com/user-attachments/files/17122072/Week1_1_.pdf)
+- [📚Week1_2_신유진](https://github.com/user-attachments/files/17107734/Week1_2_.pdf)
 ---
 
 ## 💚우수 과제💚
-- a
-- b
+- [🌟Week1_1_김현서](https://victorious-barber-2e9.notion.site/You-Only-Look-Once-Unified-Real-Time-Object-Detection-09ec7dcba8dc49d1bc9e056dd72ee1b6)
+- [🌟Week1_2_김도은](https://dony-archive.tistory.com/23)
 
 
