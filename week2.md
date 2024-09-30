@@ -1,0 +1,1 @@
+Week2 리뷰: [High-Resolution Image Synthesis with Latent Diffusion Models](https://victorious-barber-2e9.notion.site/High-Resolution-Image-Synthesis-with-Latent-Diffusion-Models-df5a12df3b1e4b00aa72bfb1a86286e3?pvs=4)
