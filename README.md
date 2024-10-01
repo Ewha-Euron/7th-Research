@@ -7,7 +7,7 @@
 
 ## 💚발표 자료💚
 - [📚Week2_1_김도은](https://github.com/user-attachments/files/17197778/Week2_1_.pdf)
-- [📚Week2_2_김나경](https://github.com/user-attachments/files/17197779/Week2_2_.pdf)
+- [📚Week2_2_김나경](https://github.com/user-attachments/files/17198900/Week2_2_.pdf)
 
 ---
 
