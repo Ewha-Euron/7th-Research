@@ -12,5 +12,5 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week2_1]
-- [🌟Week2_2]
+- [🌟Week2_1_차수빈](https://water-bean.notion.site/2-High-Resolution-Image-Synthesis-with-Latent-Diffusion-Models-11021b1368b880cca5b7c9223c7825c0)
+- [🌟Week2_2_이서영](https://lee-seoyoung.notion.site/FastText-Enriching-Word-Vectors-with-Subword-Information-b2005d24414c4714b933be3f01308aac)
