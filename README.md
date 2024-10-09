@@ -13,6 +13,7 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week3_1]
-- [🌟Week3_2]
+- [🌟Week3_1_김경민](https://aware-option-ea8.notion.site/Attention-Is-All-You-Need-47fc89d68fab46eb89fab2b65e27d38e)
+- [🌟Week3_2_우정아](https://github.com/user-attachments/files/17307716/Week3_._.pdf)
+
 
