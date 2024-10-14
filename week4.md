@@ -1,0 +1,1 @@
+Week4 리뷰: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://victorious-barber-2e9.notion.site/An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale-11d22042ea1c80b088a3ed60605ced21?pvs=4)
