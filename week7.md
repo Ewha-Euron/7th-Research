@@ -1,0 +1,1 @@
+Week7 리뷰: [Language Models are Few-Shot Learners](https://victorious-barber-2e9.notion.site/Language-Models-are-Few-Shot-Learners-13122042ea1c8044b4b1eebb99ff1df7?pvs=4)
