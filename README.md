@@ -6,8 +6,9 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week7_1_김도희]
-- [📚Week7_2_장서연]
+- [📚Week7_1_김도희](https://github.com/user-attachments/files/17624301/Week7_1_.pptx)
+- [📚Week7_2_장서연](https://github.com/user-attachments/files/17624302/Week7_2_.pdf)
+
 
 
 
