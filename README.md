@@ -16,5 +16,5 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week7_1_]
-- [🌟Week7_2_]
+- [🌟Week7_1_김경민](https://aware-option-ea8.notion.site/Playing-Atari-with-Deep-Reinforcement-Learning-10191e7d8482805b9cfecc7f1420f2b3)
+- [🌟Week7_2_차수빈](https://water-bean.notion.site/5-Language-Models-are-Few-Shot-Learners-13321b1368b8807192c8d62109a9ced5)
