@@ -1,0 +1,1 @@
+Week8 리뷰: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://victorious-barber-2e9.notion.site/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-13822042ea1c805c9c95fa03b59671de?pvs=4)
