@@ -13,5 +13,6 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week8_1_]
-- [🌟Week8_2_]
+- [🌟Week8_1_조승연](https://witty-lady-ad1.notion.site/Prioritized-Experience-Replay-13a0422c0081809db5abda11b8ec8d88)
+- [🌟Week8_2_이가영](https://github.com/user-attachments/files/17732023/_._BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.pdf)
+
