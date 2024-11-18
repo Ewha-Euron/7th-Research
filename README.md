@@ -6,8 +6,9 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week9_1_]
-- [📚Week9_2_]
+- [📚Week9_1_조승연](https://github.com/user-attachments/files/17806645/Week9_1_.pdf)
+- [📚Week9_2_신유진](https://github.com/user-attachments/files/17806646/Week9_2_.pdf)
+
 
 
 
