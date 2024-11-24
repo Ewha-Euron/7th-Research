@@ -15,6 +15,6 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week9_1_]
-- [🌟Week9_2_]
+- [🌟Week9_1_우정아](https://github.com/user-attachments/files/17895330/Week9_._.pdf)
+- [🌟Week9_2_김현서](https://victorious-barber-2e9.notion.site/Deep-Reinforcement-Learning-with-Double-Q-learning-13822042ea1c80988037e0cdc1d69819)
 
