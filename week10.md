@@ -1,0 +1,1 @@
+Week10 리뷰: [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://victorious-barber-2e9.notion.site/V-Net-Fully-Convolutional-Neural-Networks-for-Volumetric-Medical-Image-Segmentation-13822042ea1c807fa80fcf3abaaef878?pvs=4)
