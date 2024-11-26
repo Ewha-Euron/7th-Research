@@ -6,7 +6,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week10_1_조승연](https://github.com/user-attachments/files/17909363/Week10_1_.pdf)
+- [📚Week10_1_조승연](https://github.com/user-attachments/files/17911485/Week10_1_.pdf)
 - [📚Week10_2_김경민](https://github.com/user-attachments/files/17909365/Week10_2_.pdf)
 
 
