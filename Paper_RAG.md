@@ -1,0 +1,1 @@
+[🔗](https://lee-seoyoung.notion.site/RAG-Retrieval-Augmented-Generation-for-Knowledge-Intensive-NLP-Tasks-15d912a60396806dbde9cf859be7023f?pvs=4) RAG : Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
