@@ -6,8 +6,8 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week13_1_이서영]
-- [📚Week13_2_이가영]
+- [📚Week13_1_이서영](https://github.com/user-attachments/files/18163217/Week13_1_.pdf)
+- [📚Week13_2_이가영](https://github.com/user-attachments/files/18163219/Week13_2_.pdf)
 
 ---
 
