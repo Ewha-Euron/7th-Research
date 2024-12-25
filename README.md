@@ -13,5 +13,6 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week14_1_]
-- [🌟Week14_2_]
+- [🌟Week14_1_장서연](https://velog.io/@mariajang428/논문-리뷰-A-Survey-on-Large-Language-Model-based-Autonomous-Agents)
+- [🌟Week14_2_우정아](https://github.com/user-attachments/files/18247479/Week14_._.pdf)
+
