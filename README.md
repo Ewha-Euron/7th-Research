@@ -1,8 +1,8 @@
 # 📁ARCHIVE - 2024/12/24
 
-## 💚발제 논문💚  
-- [NLP] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432)
-- [MM] [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198)
+## 💚RL제 논문💚  
+- [NLP+RL] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432)
+- [NLP+CV] [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198)
 ---
 
 ## 💚발표 자료💚
