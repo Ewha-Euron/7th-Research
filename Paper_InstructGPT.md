@@ -1,2 +1,1 @@
-[🔗](https://lee-seoyoung.notion.site/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-16b912a603968028ba66ec1f6ee77861?pvs=4) InstructGPT : Training language models to follow instructions
-with human feedback
+[🔗](https://lee-seoyoung.notion.site/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-16b912a603968028ba66ec1f6ee77861?pvs=4) InstructGPT : Training language models to follow instructions with human feedback
