@@ -14,5 +14,5 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week15_1_]
-- [🌟Week15_2_]
+- [🌟Week15_1_이서영](https://lee-seoyoung.notion.site/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-16b912a603968028ba66ec1f6ee77861?pvs=4)
+- [🌟Week15_2_김도은](https://dony-archive.tistory.com/44)
