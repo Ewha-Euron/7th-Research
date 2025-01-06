@@ -1,0 +1,1 @@
+[🔗](https://lee-seoyoung.notion.site/P-Tuning-v2-Prompt-Tuning-Can-Be-Comparable-to-Fine-tuning-Universally-Across-Scales-and-Tasks-16f912a60396806c9c0fd50b158ccb39?pvs=4) P-Tuning v2 : Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks
