@@ -1,0 +1,1 @@
+Week16 리뷰: [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://victorious-barber-2e9.notion.site/P-Tuning-v2-Prompt-Tuning-Can-Be-Comparable-to-Fine-tuning-Universally-Across-Scales-and-Tasks-17122042ea1c8061898acc8271cea668)
