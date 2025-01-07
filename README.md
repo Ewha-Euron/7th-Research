@@ -6,8 +6,9 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week16_1_우정아]
-- [📚Week16_2_김도은]
+- [📚Week16_1_우정아](https://github.com/user-attachments/files/18325956/Week16_1_.pdf)
+- [📚Week16_2_김도은](https://github.com/user-attachments/files/18325957/Week16_2_.pdf)
+
 
 
 
